@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="people">PEOPLE</string>
+    <string name="bill">BILL</string>
+    <string name="tip">TIP</string>
+    <string name="zero">0</string>
+    <string name="tip_per_person">Tip Per Person</string>
+    <string name="total">Total</string>
+    <string name="clear">Clear All</string>
+    <string name="bill_per_person">Bill Per Person</string>
+    <string name="Tip">Tip</string>
+    <string name="calculate">Calculate</string>
+    <string name="default_amount">$0.00</string>
+    <string name="subtraction_image">subtraction_image</string>
+    <string name="addition_image">addition_image</string>
+</resources>
